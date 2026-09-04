@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Abu Khalid 👋 
 ### (Muhammad Affan Bukhari)
 
-An **Entry-Level IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis**, and **Cybersecurity**. I hold advanced certifications from **Oracle**, **Google**, **Anthropic**, **Cisco**, and **HackerRank**, paired with hands-on experience in Python, SQL, and AI workflow integration.
+An **IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis**, and **Cybersecurity**. I hold advanced certifications from **Oracle**, **Google**, **Anthropic**, **Cisco**, and **HackerRank**, paired with hands-on experience in Python, SQL, and AI workflow integration.
 
 ---
 
