@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Syed Abu Khalid 👋 
+### (Muhammad Affan Bukhari)
 
-<!--
-**syedabukhalid/syedabukhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **Entry-Level IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis**, and **Cybersecurity**. I hold advanced certifications from **Oracle**, **Google**, **Anthropic**, **Cisco**, and **HackerRank**, paired with hands-on experience in Python, SQL, and AI workflow integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming & Web:** `Python` • `SQL` • `HTML5` • `CSS3` • `JavaScript`
+- **AI & Automation:** `LangChain` • `AutoGen` • `LLM Integration` • `Model Context Protocol (MCP)` • `Vector Databases`
+- **Data & Analytics:** `Power BI` • `MS Excel` • `Relational Databases`
+- **Cybersecurity:** `Penetration Testing` • `Network Security` • `Vulnerability Assessment` • `Cryptography`
+- **Tools & OS:** `Git` • `GitHub` • `VS Code` • `Windows` • `Linux`
+
+---
+
+## 📜 Verified Certifications
+
+| Provider | Certification / Achievement |
+| :--- | :--- |
+| **Oracle** | Agentic AI Certified Foundations Associate |
+| **Anthropic** | AI Fluency Framework & Foundations \| Model Context Protocol (MCP) \| Claude 101 \| Claude Code in Action |
+| **Google** | Google Certified Educator Level 1 \| Gemini Certified (K-12 & University) |
+| **HackerRank** | SQL (Advanced) Certification \| Python (Basic) Certification |
+| **Cisco** | Introduction to Cybersecurity |
+| **Hackviser** | Certified Cybersecurity Foundations (HV-CORE) |
+
+---
+
+## 💻 Projects & Work Highlights
+
+* **Personal Portfolio Website** — Interactive personal web portfolio showcasing certifications, skills, and projects built using modern HTML, CSS, and JavaScript.
+* **Telecommunications Engineer Portfolios** — Custom responsive portfolio websites engineered for industry professionals.
+* **Academic Tutoring & Mentorship** — Custom curriculum design and tutoring in AS Level Physics & Computer Science, tailoring exam strategies to Cambridge standards.
+
+---
+
+## 🎓 Education & Background
+
+* **AS Level Physics, Computer Science & Mathematics** — *Olevels.com*
+* **General Educational Development (GED)** — Private Candidate
+
+---
+
+## 📬 Connect With Me
+
+- **Portfolio:** [syedabukhalid.github.io/My-Portfolio](https://syedabukhalid.github.io/My-Portfolio/)
+- **Accredible Wallet:** [Muhammad Affan Bukhari](https://www.credential.net/profile/muhammadaffanbukhari/wallet)
+- **Credly Profile:** [Muhammad Affan Bukhari](https://www.credly.com/users/muhammad-affan-bukhari)
+
+---
+
+<p align="center">
+  <i>"Driven by curiosity in Agentic AI and securing tomorrow's digital infrastructure."</i>
+</p>
