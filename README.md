@@ -1,5 +1,9 @@
 # Hi there, I'm Syed Abu Khalid 👋 
-### (Muhammad Affan Bukhari)
+### (Real Name: Muhammad Affan Bukhari)
+
+---
+
+# 💫 About Me:
 
 An **IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis**, and **Cybersecurity**. I hold advanced certifications from **Oracle**, **Google**, **Anthropic**, **Cisco**, and **HackerRank**, paired with hands-on experience in Python, SQL, and AI workflow integration.
 
@@ -12,6 +16,11 @@ An **IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis*
 - **Data & Analytics:** `Power BI` • `MS Excel` • `Relational Databases`
 - **Cybersecurity:** `Penetration Testing` • `Network Security` • `Vulnerability Assessment` • `Cryptography`
 - **Tools & OS:** `Git` • `GitHub` • `VS Code` • `Windows` • `Linux`
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-abu-khalid-bukhari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedabukhalid.pro@gmail.com) 
 
 ---
 
@@ -51,20 +60,6 @@ An **IT & Software Candidate** passionate about **Agentic AI**, **Data Analysis*
 
 ---
 
-<p align="center">
-  <i>"Driven by curiosity in Agentic AI and securing tomorrow's digital infrastructure."</i>
-</p>
-
-
-
-
-# 💫 About Me:
-I'm currently working on: GED and personal projects<br>I'm looking to collaborate on: im not sure<br>I'm looking for help with: deciding  University <br>I'm currently learning: New skill like cybersecurity<br>Ask me about: my certifications<br>Fun fact: My Real name is Muhammad Affan Bukhari but nick name is Syed Abu Khalid.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-abu-khalid-bukhari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedabukhalid.pro@gmail.com) 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
@@ -77,5 +72,11 @@ I'm currently working on: GED and personal projects<br>I'm looking to collaborat
 
 ---
 [![](https://komarev.com/ghpvc/?username=syedabukhalid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<p align="center">
+  <i>"Driven by curiosity in Agentic AI and securing tomorrow's digital infrastructure."</i>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
