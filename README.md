@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Syed+Abu+Khalid+%F0%9F%91%8B;My+Real+Name+is+Muhammad+Affan+Bukhari+%E2%9C%A8" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=900&lines=Hi+there%2C+I'm+Syed+Abu+Khalid+%F0%9F%91%8B;My+Real+Name+is+Muhammad+Affan+Bukhari+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
